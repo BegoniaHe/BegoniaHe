@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BegoniaHe
-- 👀 I’m interested in cpp,python,lua
+- 👀 I’m interested in cpp,python,lua,golang
 - 🌱 I’m currently learning python,js,lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
