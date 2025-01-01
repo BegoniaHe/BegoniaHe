@@ -27,16 +27,17 @@
 
 ### 📈 贡献图
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BegoniaHe)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BegoniaHe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BegoniaHe&bg_color=000000&line=007BFF&color=007BFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!---
 ### 🔥 GitHub Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BegoniaHe&theme=dark&background=000000)](https://git.io/streak-stats)
-
+--->
 ### 📫 联系我
 
 - GitHub: [@BegoniaHe](https://github.com/BegoniaHe)
-- 邮箱: [your.email@example.com]
+- 邮箱: [tianyihebegonia1005@gmail.com]
 
 ### ⚡ 有趣的事实
 
