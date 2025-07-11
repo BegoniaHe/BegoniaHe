@@ -1,31 +1,45 @@
-## 👋 你好，我是BegoniaHe
+## 👋 Hi, I'm BegoniaHe
 
-我是一名热爱编程的开发者，专注于C++、Python、Lua和Go语言。
+I'm a passionate developer with a love for coding, specializing in **C++**, **Python**, **Lua**, and **Go**. I also work extensively with **Java**, **JavaScript**, **C#**, and more—my toolkit keeps growing as I explore new technologies.
 
-### 🚀 关于我
+### 🚀 About Me
 
-- 🌱 正在学习Python、JavaScript和Lua
-- 👀 对C++、Python、Lua和Go充满兴趣
-- 💻 热衷于探索新的编程语言和技术
-- 🤝 期待与其他开发者合作有趣的项目
+- 🌱 Currently learning Python, JavaScript, and Lua
+- 👀 Deeply interested in C++, Python, Lua, Go, Java, JavaScript, and C#
+- 💻 Always excited to explore new programming languages and technologies
+- 🤝 Looking forward to collaborating on interesting projects with fellow developers
 
-### 🛠 技能和工具
+### 🛠 Skills & Tools
 
 - C++
 - Python
 - Lua
 - Go
+- Java
 - JavaScript
+- C#
+- HTML & CSS
 
-### 📊 GitHub统计
+### 📫 Contact Me
+
+- GitHub: [@BegoniaHe](https://github.com/BegoniaHe)
+- Email: tianyihebegonia1005@gmail.com
+
+### ⚡ Fun Fact
+
+I believe code has the power to change the world—and I'm working hard to be part of that transformation!
+
+[1] https://pplx-res.cloudinary.com/image/private/user_uploads/30138363/90fba460-70fc-4478-9597-db50407c4112/Jie-Ping-2025-07-11-14.56.48.jpg
+
+### 📊 GitHub Stats
 
 ![BegoniaHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BegoniaHe&show_icons=true&theme=tokyonight)
 
-### 🌟 最常用的语言
+### 🌟 Most Used Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BegoniaHe&layout=compact&theme=tokyonight)
 
-### 📈 贡献图
+### 📈 Contribution Graph
 
 [![BegoniaHe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BegoniaHe&bg_color=000000&line=007BFF&color=007BFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -34,14 +48,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BegoniaHe&theme=dark&background=000000)](https://git.io/streak-stats)
 --->
-### 📫 联系我
+### 📫 Contact Me
 
 - GitHub: [@BegoniaHe](https://github.com/BegoniaHe)
-- 邮箱: [tianyihebegonia1005@gmail.com]
+- Mail: [tianyihebegonia1005@gmail.com]
 
-### ⚡ 有趣的事实
-
-我相信代码可以改变世界，而我正在努力成为这个变革的一部分！
+I believe code has the power to change the world—and I'm working hard to be part of that transformation!
 
 <!---
 BegoniaHe/BegoniaHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
