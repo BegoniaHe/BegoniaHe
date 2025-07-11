@@ -20,17 +20,6 @@ I'm a passionate developer with a love for coding, specializing in **C++**, **Py
 - C#
 - HTML & CSS
 
-### 📫 Contact Me
-
-- GitHub: [@BegoniaHe](https://github.com/BegoniaHe)
-- Email: tianyihebegonia1005@gmail.com
-
-### ⚡ Fun Fact
-
-I believe code has the power to change the world—and I'm working hard to be part of that transformation!
-
-[1] https://pplx-res.cloudinary.com/image/private/user_uploads/30138363/90fba460-70fc-4478-9597-db50407c4112/Jie-Ping-2025-07-11-14.56.48.jpg
-
 ### 📊 GitHub Stats
 
 ![BegoniaHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BegoniaHe&show_icons=true&theme=tokyonight)
