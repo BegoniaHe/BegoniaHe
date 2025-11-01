@@ -1,50 +1,50 @@
-## 👋 Hi, I'm BegoniaHe
+<div align="center">
+
+# 👋 Hi, I'm BegoniaHe
+
+*A passionate developer exploring the world of code*
+
+[![GitHub followers](https://img.shields.io/github/followers/BegoniaHe?style=social)](https://github.com/BegoniaHe)
+[![GitHub stars](https://img.shields.io/github/stars/BegoniaHe?style=social)](https://github.com/BegoniaHe)
+
+</div>
+
+---
+
+## About Me
 
 I'm a passionate developer with a love for coding, specializing in **C++**, **Python**, **Lua**, and **Go**. I also work extensively with **Java**, **JavaScript**, **C#**, and more—my toolkit keeps growing as I explore new technologies.
 
-### 🚀 About Me
+- Currently learning Python, JavaScript, and Lua
+- Deeply interested in C++, Python, Lua, Go, Java, JavaScript, and C#
+- Always excited to explore new programming languages and technologies
+- Looking forward to collaborating on interesting projects with fellow developers
 
-- 🌱 Currently learning Python, JavaScript, and Lua
-- 👀 Deeply interested in C++, Python, Lua, Go, Java, JavaScript, and C#
-- 💻 Always excited to explore new programming languages and technologies
-- 🤝 Looking forward to collaborating on interesting projects with fellow developers
+---
 
-### 🛠 Skills & Tools
+## GitHub Metrics
 
-- C++
-- Python
-- Lua
-- Go
-- Java
-- JavaScript
-- C#
-- HTML & CSS
+<div align="center">
 
-### 📊 GitHub Stats
+![Metrics](https://raw.githubusercontent.com/BegoniaHe/BegoniaHe/main/github-metrics.svg)
 
-![BegoniaHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BegoniaHe&show_icons=true&theme=tokyonight)
+</div>
 
-### 🌟 Most Used Langs
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BegoniaHe&layout=compact&theme=tokyonight)
+## � Contact Me
 
-### 📈 Contribution Graph
+<div align="center">
 
-[![BegoniaHe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BegoniaHe&bg_color=000000&line=007BFF&color=007BFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub](https://img.shields.io/badge/GitHub-BegoniaHe-181717?style=for-the-badge&logo=github)](https://github.com/BegoniaHe)
+[![Email](https://img.shields.io/badge/Email-tianyihebegonia1005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tianyihebegonia1005@gmail.com)
 
-<!---
-### 🔥 GitHub Streak Stats
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BegoniaHe&theme=dark&background=000000)](https://git.io/streak-stats)
---->
-### 📫 Contact Me
+---
 
-- GitHub: [@BegoniaHe](https://github.com/BegoniaHe)
-- Mail: [tianyihebegonia1005@gmail.com]
+<div align="center">
 
-I believe code has the power to change the world—and I'm working hard to be part of that transformation!
+*I believe code has the power to change the world—and I'm working hard to be part of that transformation!*
 
-<!---
-BegoniaHe/BegoniaHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
