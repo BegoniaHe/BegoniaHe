@@ -10,27 +10,40 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="50%">
 
-```typescript
-const BegoniaHe = {
-    languages: ["C++", "Python", "Lua", "Go", "Java", "JavaScript", "C#"],
-    currentFocus: ["Python", "JavaScript", "Lua"],
-    interests: [
-        "Software Development",
-        "System Programming",
-        "Web Technologies",
-        "Open Source"
-    ],
-    funFact: "I believe code has the power to change the world!"
-};
-```
+### Who Am I?
 
-<br clear="right"/>
+I'm a passionate developer with a love for coding, exploring various programming languages and technologies.
 
-### 🛠️ Tech Stack
+**Currently Learning:**
+
+- Python, JavaScript, Lua
+
+**What I Do:**
+
+- Software Development
+- System Programming  
+- Web Technologies
+- Open Source Contribution
+
+**My Belief:**
+> *"I believe code has the power to change the world!"*
+
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="100%">
+
+</td>
+</tr>
+</table>
+
+### Tech Stack
 
 <div align="center">
 
@@ -51,7 +64,7 @@ const BegoniaHe = {
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -63,7 +76,7 @@ const BegoniaHe = {
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -76,7 +89,7 @@ const BegoniaHe = {
 
 <br/><br/>
 
-### 💬 *"First, solve the problem. Then, write the code."* 💻
+### *"First, solve the problem. Then, write the code."*
 
 </div>
 
