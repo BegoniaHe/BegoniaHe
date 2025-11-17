@@ -88,11 +88,11 @@ I'm a passionate developer with a love for coding, exploring various programming
 ## Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/BegoniaHe/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/BegoniaHe/CZC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=CZC&theme=tokyonight&hide_border=true" alt="CZC" />
   </a>
-  <a href="https://github.com/BegoniaHe/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=your-project-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/BegoniaHe/golua">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=golua&theme=tokyonight&hide_border=true" alt="golua" />
   </a>
 </p>
 
