@@ -64,6 +64,17 @@ I'm a passionate developer with a love for coding, exploring various programming
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BegoniaHe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="BegoniaHe's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegoniaHe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
 ## GitHub Metrics
 
 <div align="center">
@@ -71,6 +82,19 @@ I'm a passionate developer with a love for coding, exploring various programming
 ![Metrics](./github-metrics.svg)
 
 </div>
+
+---
+
+## Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/BegoniaHe/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/BegoniaHe/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BegoniaHe&repo=your-project-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</p>
 
 ---
 
