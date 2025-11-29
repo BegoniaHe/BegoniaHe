@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zero-Compiler/Zero-Lang-Testcases</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo contains shared, text-based testcases for zerolang</div>
@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zero-Compiler/Zero-Compiler-OLD</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple programming language implemented in Rust.</div>
@@ -2698,7 +2698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 09:35:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 10:38:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
