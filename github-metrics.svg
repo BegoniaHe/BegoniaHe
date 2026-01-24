@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbplayer-app/BBPlayer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款简约、好用的 BiliBili 音乐播放器。</div>
@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zero-kernel/Zero-os</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A monolithic kernel in pure Rust, inspired by the Linux kernel</div>
@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>code-yeongyu/oh-my-opencode</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.</div>
@@ -2698,7 +2698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2026, 18:08:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2026, 19:07:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
