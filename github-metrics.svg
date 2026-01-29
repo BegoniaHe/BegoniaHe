@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1318" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1335" class="">
     <defs>
         <style/>
     </defs>
@@ -2375,10 +2375,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiann/hapi</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere</div>
+                                <div class="field description">App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2687,7 +2687,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2026, 16:16:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2026, 17:19:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
