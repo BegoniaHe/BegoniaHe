@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BegoniaHe/DropOut</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Pure Rust.</div>
@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BegoniaHe/DropIn</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DropIn is a CLI tool which can lock minecraft instances(java, mods, configs, etc) as a lock file for DropOut launcher</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/DropIn</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DropIn is a CLI tool which can lock minecraft instances(java, mods, configs, etc) as a lock file for DropOut launcher</div>
@@ -2693,7 +2693,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2026, 06:10:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2026, 07:10:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
