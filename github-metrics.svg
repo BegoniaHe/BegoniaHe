@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IgnatBeresnev/comfyui-gfx1151</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dockernized ComfyUI with PyTorch &amp; flash-attention for gfx1151 (AMD Strix Halo, Ryzen AI Max+ 395), relying on AMD's pre-built and pre-configured environment (no custom wheels)</div>
@@ -2693,7 +2693,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2026, 05:16:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Feb 2026, 06:13:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
