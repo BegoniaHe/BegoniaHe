@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="92.46589699689252" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="92.46589699689252" y="0" width="84.20316690654607" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="176.6690639034386" y="0" width="68.8157286971667" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="245.48479260060532" y="0" width="55.332396241124435" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="300.8171888417298" y="0" width="28.411578871633424" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="329.2287677133632" y="0" width="23.523084642599404" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="352.7518523559626" y="0" width="19.42116231618546" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="372.17301467214804" y="0" width="87.82698532785199" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="92.42697602392035" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="92.42697602392035" y="0" width="84.16772390226255" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="176.5946999261829" y="0" width="68.78676261125102" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="245.38146253743392" y="0" width="55.30910559269587" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="300.6905681301298" y="0" width="28.399619799918618" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="329.09018793004844" y="0" width="23.5131832479087" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="352.6033711779572" y="0" width="19.41298751273742" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="372.0163586906946" y="0" width="87.98364130930547" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slint-ui/slint</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.</div>
@@ -2690,7 +2690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2026, 18:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2026, 19:17:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
