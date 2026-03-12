@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="92.42697602392035" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="92.42697602392035" y="0" width="84.16772390226255" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="176.5946999261829" y="0" width="68.78676261125102" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="245.38146253743392" y="0" width="55.30910559269587" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="300.6905681301298" y="0" width="28.399619799918618" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="329.09018793004844" y="0" width="23.5131832479087" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="352.6033711779572" y="0" width="19.41298751273742" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="372.0163586906946" y="0" width="87.98364130930547" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="92.39599510748288" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="92.39599510748288" y="0" width="84.13951143299087" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="176.53550654047376" y="0" width="68.76370573937076" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="245.2992122798445" y="0" width="55.290566343092436" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="300.58977862293693" y="0" width="28.390100433541754" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="328.9798790564787" y="0" width="23.50530178302994" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="352.48518083950864" y="0" width="19.406480406589335" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="371.89166124609795" y="0" width="88.10833875390203" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DefinitelyNotProcrastinating/a_tale_of_the_stars</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">繁星物语 主Repo</div>
@@ -2689,7 +2689,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2026, 05:14:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2026, 06:09:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
