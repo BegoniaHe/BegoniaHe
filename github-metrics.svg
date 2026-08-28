@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/OneRoll</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OneRoll: An efficient dice expression parsing tool, based on Rust and PEG grammar | 高效的骰子表达式解析工具, 基于 Rust 与 PEG 文法</div>
@@ -2692,7 +2692,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2026, 23:04:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2026, 04:03:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
